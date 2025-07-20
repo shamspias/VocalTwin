@@ -1,13 +1,2 @@
-torch>=2.2.0
-torchaudio>=2.2.0
-numpy
-soundfile
-ffmpeg-python
-tqdm
-
-# OpenVoice V2 (tone-colour converter & SE extractor)
-git+https://github.com/myshell-ai/OpenVoice.git#egg=myshell-openvoice
-
-# MeloTTS (base TTS)
-git+https://github.com/myshell-ai/MeloTTS.git#egg=melotts
-unidic-lite
+git+https://github.com/myshell-ai/OpenVoice.git
+git+https://github.com/myshell-ai/MeloTTS.git
