@@ -72,7 +72,7 @@ python main.py train_and_synthesize --language EN
 
 > **Prerequisites**
 >
-> * Python 3.9 – 3.11
+> * Python 3.9 – 3.10
 > * `ffmpeg` in your `PATH`
 > * NVIDIA GPU with CUDA 11+ recommended (CPU works, just slower)
 
